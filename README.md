@@ -18,30 +18,6 @@
 > - [YouTube Channel](https://www.youtube.com/channel/UC6_1-cSnXVWVYIbQUFrwVaA?view_as=subscriber)
 > - [Business Card](https://github.com/Carlopasquinucci/BusinessCard/blob/main/README.md)
 
-> # Contents
-
->- [Who I am](#who-i-am)
->     - [Summary](#summary)   
->     - [Job References](#job-references)
->     - [Soft Skills](#soft-skills) 
->     - [Sports Hobbies and Voluntary Organisation](#sports-hobbies-and-voluntary-organisations)
-> - [What I know](#what-i-know)
->    - [Software](#software)
->    - [Languages](#languages)    
->     - [Technical Skills](#technical-skills)     
-> - [What I did](#what-i-did)
->     - [Career History](#career-history)
->     - [Publications](#publications)
->     - [Content Marketing](#content-marketing)
->  - [What I learned](#what-i-learned)
->    - [Courses](#courses)
->    - [University](#university)
->    - [High School](#high-school) 
-
-----------
-
-> # **Who I am**
-
 ----------
 
 > ### Summary 
@@ -64,9 +40,6 @@
 
 ***[Ruggero Poletto](https://www.linkedin.com/in/ruggeropoletto/), Founder of [CFD-FEA Service](https://cfdfeaservice.it):***
 >“In the beginning, it was just a LinkedIn contact but later it got transformed into a personal friendship. Since we met, I got struck by Carlo’s passion about CAE/FEM/CFD tools and, at the same time, knowledge of optimisation problem and algorithms. *I can confirm Pasquinucci’s quality as a very proactive person,* with a good problem-solving skill and excellent team working capability. His CFD software and programming language knowledge make him surely suitable to achieve his ambitions goals."
-
-***[Simone Cremonesi](https://www.linkedin.com/in/simone-cremonesi-57428143/), Owner of [AMTR&D](http://amtrd.eu/it):***
->“Before we met Mr Pasquinucci, our development was based basically on experimental tests. *He showed us the potential of the Simulation based Design* and under his  teachings and suggestions, in very few months, we had the opportunity to learn Computation Fluid Dynamics and perform several simulations with a huge progress of the development of the new project.” 
  
 ***[Federico Monterosso](https://www.linkedin.com/in/federicomonterosso/), Owner of [Omiq S.R.L](https://www.omiq.it/):***
 >"I had the chance to collaborate with Carlo a couple of years  ago. *I was very impressed by his professionalism and dedication to the project we were working on*. His  technical skills, specifically in the use of CAESES but also in general on shape optimisation, resulted in a  very successful project.” 
@@ -79,23 +52,8 @@
 > - *Able to see the “big picture” , understanding the goal and the need of the entire team*
 > - *Able to work in a team, individually or under minimal supervision*   
 > - *Able to manage different projects and clients simultaneously*   
+> 
 
-> ### Sports, Hobbies and Voluntary Organisations
-> - Outdoor sports in contact with nature: Cycling, Sailing, Windsurfing, Trekking
-> - Explore the world in a slow and green way, in particolar, in unsupported [bikepacking trip](https://bikepacking.com/bikepacking-101/)
-> - Host and give hospitality to travelling people through the [Couchsurfing association](https://en.wikipedia.org/wiki/CouchSurfing)
-> - Organizer and active partecipant at the [*Critical Mass*](https://en.wikipedia.org/wiki/Critical_Mass_(cycling)) in Brescia
-> - Promoter and organizer for turistic free green tours by bike for supporting turism in my region
-> - Organizer and active partecipant a the *Speak English! Valcamonica*
-> - Promoter and active partecipant at the [*Banco Alimentare*](www.bancoalimentare.it) (An Italian food bank)
-
-
-
-----------
-
-> # **What I know**
-
-----------
 > ### Software
 > ***O.S.:*** Windows, Linux   
 > ***Languages:*** Python, Matlab, Visual Basic (Basic), GitHub, MarkDown        
@@ -147,14 +105,6 @@
 >> :heavy_check_mark:   Technical Customer / Client Service:   
 :blue_square: :blue_square:  :blue_square:  :blue_square: :blue_square:  :blue_square:  :blue_square:  :blue_square: :blue_square:  :white_large_square:      
 
-
-
-
-----------
-
-> # **What I did**
-
-----------
 
 > ### **Career History**
 >
@@ -247,47 +197,6 @@
 
 [***Assistant of Mechanical Engineers***  *IGNAZIO MESSINA S.P.A. - INTERNSHIP (Genoa, Italy) - messinaline.it   Academic Internship - December 2012 – January 2013  The work, performed in a repair shipyard, consisted in the planning, scheduling and executing of repairs on board and in the steel structural shop.   **Soft Skills:** Project Management, Time Management, Workers Supervision ]: #
 
-> ### **Publications**
->
-***Conference Articles:***   
-
->>“The importance of the geometrical properties in the industrial turbofan design”, [Faces of Geometry, Politecnico di Milano, October 2020](http://matematica.unibocconi.it/news/faces-geometry-ii-edizione)     
->>“Quality tessellation optimization for partial differential equation solution”, [Faces of Geometry, Politecnico di Milano, October 2020](http://matematica.unibocconi.it/news/faces-geometry-ii-edizione)             
->>[“Learning from Results: Data Based Project Based on CFD Simulations”](https://www.researchgate.net/publication/328276740_Learning_from_Results_Data_Based_Project_based_of_CFD_Simulations), [International CAE Conference, Vicenza, October 2018](http://proceedings2018.caeconference.com/)  
->>“A Fast Optimization Algorithm for Greener Ship Design”, [International CAE Conference, Vicenza, November 2017](http://proceedings2017.caeconference.com/)   
->>“Significance of Parametric Hull Form Definition on Hydrodynamic Performance Optimization”, VI Compit 2015, Rome, Italy   
-
-***Poster Sessions:***    
->>“Logarithmic Spiral Based Volute Design and Optimization”, [CAESES European Users’ Meeting, 2019](https://www.friendship-systems.com/news/2019/successful-caeses-users-meeting-2019/)  
->>[“Sparse Free Form Deformation for Faster Hull Optimization”](https://www.researchgate.net/publication/320426792_Sparse_Free_Form_Deformation_a_faster_optimization_algorithm_and_parameter_reduction_technique), [CAESES European Users’ Meeting, 2017](https://www.friendship-systems.com/news/2017/successful-caeses-european-users-meeting-2017/)           
->>“Hull Coefficients Sensitivity Analysis with Modern Methods”, [International CAE Conference, Vicenza, 2017](http://proceedings2017.caeconference.com/)     
-
-***Contest:***     
->>“Free Form Deformation and Surrogate Surface: A Help in Greener Ship Design”, Winner TraVisions Contest 2018 – European Contest for Master Thesis – [Waterborne Section](https://www.travisions.eu/TRAVisions/young_researcher_results_2018/)
-
-> ### **Content Marketing**
-***LinkedIn Articles:***
->>[CFD in ambito biomedicale: una nuova storia di successo](https://www.linkedin.com/pulse/cfd-ambito-biomedicale-una-nuova-storia-di-successo-pasquinucci/) :it:  
->>[Attraverso la simulazione CFD miglioriamo macchine, prodotti e componenti](https://www.linkedin.com/pulse/attraverso-la-simulazione-cfd-miglioriamo-macchine-e-pasquinucci/) :it:  
->>[L’arte della simulazione CFD a supporto del Design](https://www.linkedin.com/pulse/larte-della-simulazione-cfd-supporto-del-design-pasquinucci/) :it:  
->>[OpenFOAM: come iniziare facilmente](https://www.linkedin.com/pulse/openfoam-come-iniziare-facilmente-carlo-augusto-pasquinucci/) :it:  
->>[SIMULAZIONE CFD DI UN SISTEMA MULTIFASE GAS-LIQUIDO](https://www.linkedin.com/pulse/simulazione-cfd-di-un-sistema-multifase-gas-liquido-pasquinucci/) :it:  
-
->>[The art of CFD Simulation in supporting Design](https://www.linkedin.com/pulse/art-cfd-simulation-supporting-design-carlo-augusto-pasquinucci/) :gb:  
->>[CFD SIMULATION OF A GAS-LIQUID MULTIPHASE SYSTEM](https://www.linkedin.com/pulse/cfd-simulation-gas-liquid-multiphase-system-carlo-augusto-pasquinucci/) :gb:  
->>[Where CAE is going?](https://www.linkedin.com/pulse/where-cae-going-carlo-augusto-pasquinucci/)  :gb:  
-
-<!--- comments
- 
-
-***Articles on [Il Progettista Industriale:](https://www.ilprogettistaindustriale.it/)***
->>[Introduzione alla Fluidodinamica Numerica](https://reader.paperlit.com/read/prj_5c6d8e19eba04/pub_5c6d8e1a0e83c/5000-01-18?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwcm9qZWN0SWQiOiJwcmpfNWM2ZDhlMTllYmEwNCIsInByb2plY3RQZXJtaXNzaW9uc0JpdG1hc2siOjF9.S2AgZtHxufsSYol5LRjIByWxiUUXLQGDqfVMIocr_No&page=1) :it:   --->
-
-----------
-
-> # **What I learned**
-
-----------
 >### **Courses**
 
 ***CFD:***   
